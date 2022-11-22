@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Minfluence/Minfluence.github.io.git/static/css/main.beabc0d7.css",
+    "main.js": "/Minfluence/Minfluence.github.io.git/static/js/main.f0757678.js",
+    "static/js/787.f587e8d5.chunk.js": "/Minfluence/Minfluence.github.io.git/static/js/787.f587e8d5.chunk.js",
+    "index.html": "/Minfluence/Minfluence.github.io.git/index.html",
+    "main.beabc0d7.css.map": "/Minfluence/Minfluence.github.io.git/static/css/main.beabc0d7.css.map",
+    "main.f0757678.js.map": "/Minfluence/Minfluence.github.io.git/static/js/main.f0757678.js.map",
+    "787.f587e8d5.chunk.js.map": "/Minfluence/Minfluence.github.io.git/static/js/787.f587e8d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.beabc0d7.css",
+    "static/js/main.f0757678.js"
+  ]
+}
